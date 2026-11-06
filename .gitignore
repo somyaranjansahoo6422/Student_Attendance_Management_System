@@ -30,3 +30,6 @@ Thumbs.db
 
 # Created when the app runs
 *.db
+
+# Builds are published under Releases
+dist/

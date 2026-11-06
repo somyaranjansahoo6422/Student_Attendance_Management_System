@@ -140,11 +140,7 @@ Student_Attendance_Management_System/
 │
 ├── assets/
 │   └── screenshots/
-├── dist/
-│   ├── Source Code.exe
-│   └── attendance.db
 ├── Source Code.py
-├── attendance.db
 ├── requirements.txt
 ├── README.md
 └── LICENSE
